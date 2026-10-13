@@ -295,14 +295,14 @@ Build the security mental model required to reason about Agentic AI systems.
 - [ ] Resource authorization
 - [ ] Permission-based authorization
 
-### 00.4 RBAC
+### 00.4 RBAC (Role-Based Access Control)
 
 - [ ] Roles
 - [ ] Permissions
 - [ ] Role hierarchy
 - [ ] Role-based access
 
-### 00.5 ABAC
+### 00.5 ABAC (Attribute-Based Access Control)
 
 - [ ] Attributes
 - [ ] Policy-based access
